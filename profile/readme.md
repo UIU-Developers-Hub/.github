@@ -26,7 +26,7 @@ UIU Developers Hub is open exclusively to UIU students, alumni, and faculty memb
 
 ## Governance
 
-UIU Developers Hub is an independent organization maintained by [Department of Computer Science and Engineering, UIU](https://cse.uiu.ac.bd/). While we operate independently, we collaborate closely with  CDIP and Dept. CSE to ensure alignment with the university's goals and values.
+UIU Developers Hub is an independent organization maintained by [Department of Computer Science and Engineering, UIU](https://cse.uiu.ac.bd/). While we operate independently, we collaborate closely with [CDIP](https://cdip.uiu.ac.bd/) and Dept. CSE to ensure alignment with the university's goals and values.
 
 ## Get Involved
 
