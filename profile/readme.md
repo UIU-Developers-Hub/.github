@@ -26,7 +26,7 @@ UIU Developers Hub is open exclusively to UIU students, alumni, and faculty memb
 
 ## Governance
 
-UIU Developers Hub is an independent organization maintained by UIU Computer Club. While we operate independently, we collaborate closely with UIU Computer Club to ensure alignment with the university's goals and values.
+UIU Developers Hub is an independent organization maintained by [Department of Computer Science and Engineering, UIU](https://cse.uiu.ac.bd/). While we operate independently, we collaborate closely with  CDIP and Dept. CSE to ensure alignment with the university's goals and values.
 
 ## Get Involved
 
@@ -36,6 +36,6 @@ Ready to join us? Follow us on our social media channels to stay updated on upco
 
 ## Contact Us
 
-Have questions or want to learn more? Feel free to reach out to us at [uiudevelopershub@gmail.com](mailto:uiudevelopershub@gmail.com) or [computerclub@cse.uiu.ac.bd](mailto:computerclub@cse.uiu.ac.bd).
+Have questions or want to learn more? Feel free to reach out to us at [uiudevelopershub@gmail.com](mailto:uiudevelopershub@gmail.com) or [developershub@cse.uiu.ac.bd](mailto:developershub@cse.uiu.ac.bd).
 
 Thank you for your interest in UIU Developers Hub! Let's collaborate, develop, and innovate together.
